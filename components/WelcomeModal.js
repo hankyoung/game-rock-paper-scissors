@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
   },
   modalContainer: {
     flex: 1,
-    backgroundColor: "#FFEA00",
+    backgroundColor: "#FFF",
     alignItems: "center",
     justifyContent: "space-evenly",
   },
